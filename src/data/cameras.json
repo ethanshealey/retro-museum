@@ -1,0 +1,121 @@
+[
+    {
+        "id": 1,
+        "name": "Canon AE-1 Program",
+        "image": "cameras/canon-ae1-program.png",
+        "year": 1981,
+        "description": "My first 35mm SLR, and one of my most modern film cameras, the Canon AE-1 Program makes shooting film a breeze. Along with this camera I have a 50mm f1.8 lens (pictured), a 100-200mm f5.6 lens, and a 100-300mm f5.6 zoom lens."
+    },
+    {
+        "id": 2,
+        "name": "Argus Seventy-Five",
+        "image": "cameras/argus-seventy-five.png",
+        "year": 1949,
+        "description": "The Argus Seventy-Five was my first TLR (Twin-Lens Reflex) waist level camera, kicking off my love for waist level viewfinders. The simple controls being just a \"INSTANT\" (1/50th) and \"TIME\" switch, with a 75mm fixed focus lens with a double exposure prevention, this camera is a simple yet fun camera to use wherever you are."
+    },
+    {
+        "id": 3,
+        "name": "Gaf SC/91 Anscomatic",
+        "image": "cameras/asncomatic.png",
+        "year": 1967,
+        "description": "I found this Gaf SC/91 Anscomatic super 8 camera at a local antique store along with the Kodak Escort 8, I was hopeful to make good use of this small camera, but not long after taking it home the motor suddenly burnt out, rendering it unoperable. Despite this, the camera reps a optical 15mm f1.8 lense along with a 18fps filming speed."
+    },
+    {
+        "id": 4,
+        "name": "Kodak Escort 8 Zoom 8mm",
+        "image": "cameras/kodak-escort-zoom-8.png",
+        "year": 1960,
+        "description": "This standard 8mm film camera does not have much a presence online, finding information about this compact camera is tough. It features a hand-crank which powers the system, an impressive f1.6 zoom lens (no idea the mm), and a simple rangefinder which \"zooms\" along with the lens. I have yet to get my hands on some standard 8mm to shoot with."
+    },
+    {
+        "id": 5,
+        "name": "Kodak No. 1A Autographic Jr",
+        "image": "cameras/kodak-no1a-autographic-jr.png",
+        "year": 1924,
+        "description": "I picked up this beautiful antique at a local antique store in Eden, NC. It features a 130mm f7.7 fixed focus lens and took a long retired A-116 film. Thanks to modern magic, I can use 3D printed adapters to load this camera with standard 120 film. Due to the extreme difference of film sizes (and a major light leak through the film count window), I was forced to learn how to wind the film blind. So far I have yielded several great pictures using this 100+ year old camera."
+    },
+    {
+        "id": 6,
+        "name": "Pho-Tak Foldex 20",
+        "image": "cameras/foldex-20.png",
+        "year": 1948,
+        "description": "Being my first ever (functional) film camera, I treasure this cheap simple camera deeply. Packing a 1/50th shutter speed and a 86mm f11 Octvar lens, this camera is perfect for portraits and produces a unqiue almost fish-eyed photo."
+    },
+    {
+        "id": 7,
+        "name": "Graflex Crown Graphic",
+        "image": "cameras/graflex-speed-graphic.png",
+        "year": 1947,
+        "description": "The Graflex Crown Graphic was my first large format camera, shooting 4x5 film. Although this camera features a rangefinder and a retractable Sports Finder, I always opt to shoot through the focusing glass, using myGraflex Optar 135mm f4.7 lens. This wildly popular camera is packed with super interesting features, including a Front Rise, Front Tilt, Front Shift, and a Bed Drop movement, allowing me to capture genuine tilt-shift photographs and other neat effects! Also, thanks to its Graflok back, I was able to attach a LomoGraflok Instant back adapter allowing me to shoot Instax Wide film. While this is a much cheaper option than actual 4x5, I feel the results it yields just isn't worth the hastle. I have only had the opportunity to shoot 4x5 a few times, but it has always felt extra \"real\" thanks to having to load the film myself and only being able to shoot however many darkslides I happen to have."
+    },
+    {
+        "id": 8,
+        "name": "Kodak Brownie No.2 Model F",
+        "image": "cameras/kodak-brownie-no-2f.png",
+        "year": 1931,
+        "description": "The Kodak Brownie No.2 Model F is one of my favorite box cameras, thanks to being referenced in one of my favorite games of all time, Read Dead Redemption 2. This literal box reps a Meniscus lens with simple metal pull tabs that controls the f8, f11, and f16 aperatures and the 1/50th and BULB shutter speeds. This camera line (starting in 1901) was the first ever to use 120 film, which still rains supreme today!"
+    },
+    {
+        "id": 9,
+        "name": "Kodak Six-16",
+        "image": "cameras/kodak-six-16.png",
+        "year": 1932,
+        "description": "The Kodak Six-16 includes 128mm f6.3 lens along with a wide range of shutter speeds for its age, ranging from 1/10 to 1/100 (as well as Time and Bulb). On the lens you are also able to control the focus with a rotating handle around the lens. Similar to the No. 1A Autographic it features a small waist level viewfinder which provides a fun and unique shooting experience. It also shoots a long defunct 616 film which can also be fitted to shoot 120 film thanks to 3D printed adapters."
+    },
+    {
+        "id": 10,
+        "name": "Kodak No. 2 Pocket Brownie",
+        "image": "cameras/koda-no2-pocket-brownie.png",
+        "year": 1911,
+        "description": "The Kodak No. 2 Pocket Brownie is one of my oldest in my collection, dating from 1911. This is also the oldest in my collection to take 120 film, making it super easy to shoot! This brownie features a 114mm Meniscus Achromat lens along with a shutter speed of 1/25th, Bulb, and Time. Due to its extremely slow shutter speed, it is a challenge to get pictures that are not blurry when free handing. Another annoying feature of this camera is its lack of actual aperature informtaion, replacing the normal numbers with a simple \"1\", \"2\", and \"3\", which apparently line up to approximately f11, f16, and f22 respectively."
+    },
+    {
+        "id": 11,
+        "name": "Mamiya RB67 Pro S",
+        "image": "cameras/mamiya-rb67.png",
+        "year": 1974,
+        "description": "Being one of my most modern and professional (and most expensive) cameras, shooting with the RB67 is so much fun! Don't let the photo decieve you, this thing is a tank weighing ~4lbs without a lens! Most of the controls like shutter speed a located on the lens giving it a unique experience. This camera is extremely modular, letting you remove almost all the parts like the film back, viewfinder (I currently use a waist level viewfinder, but want to add a prism to my arsenal), and lens (I currently have an amazing Sekor 65mm f4.5 wide angle lense as well as the \"default\" 90mm f3.6 lens."
+    },
+    {
+        "id": 12,
+        "name": "Paillard Bolex B8",
+        "image": "cameras/paillard-bolex-b8.png",
+        "year": 1953,
+        "description": "This intricately designed 8mm camera is an eye catcher, shooting 25ft of double run 8mm film. Featuring a super interesting dual lens setup, allowing you to rotate the between two lenses, currently using a short f5.5 and a telephoto f1.9 lens. Sadly, this camera was bought sight unseen and arrived dead on arrival, meaning I will be unable to use this beauty to its full extent."
+    },
+    {
+        "id": 13,
+        "name": "Polaroid Land Camera 360",
+        "image": "cameras/polaroid-land-camera-360.png",
+        "year": 1969,
+        "description": "The camera that jump started my interest in film, the first camera I ever came across in a antique store in Oak Island, NC, this large polaroid shoots long gone Type 100 pull-apart film. I have been able to pick up One Instant film, a revived version of the orignal Type 100 film, but I screwed up the shots beyond fixing and it has been out of stock ever since :("
+    },
+    {
+        "id": 14,
+        "name": "Rolleicord I-A Model 3",
+        "image": "cameras/rolleicord-ia-model-3.png",
+        "year": 1938,
+        "description": "By far my most beat up camera, I picked this up for cheap at an estate sale in hopes of bringing it back to life. So far I have replaced all the phaux leather skin but have yet to clean up the metal dials. I have also yet to send a roll of film through this camera, but as far as I can tell, the shutter works just fine with minimal fungus."
+    },
+    {
+        "id": 15,
+        "name": "Vivitar 700",
+        "image": "cameras/vivitar-110.png",
+        "year": 1977,
+        "description": "The Vivitar 700 is the only camera I own that shoots 110 film, still obtainable via Lomography. This compact camera features a 24mm f7 lens with a fixed focus and a built in flash powered by 2x AA batteries. This camera gives me disposable camera vibes and is super simple and fun to use."
+    },
+    {
+        "id": 16,
+        "name": "Yashica A",
+        "image": "cameras/yashica-a.png",
+        "year": 1956,
+        "description": "The Yashica A is by far my favorite TLR (Twin-Lens Reflex) camera I currently have in my collection. Featuring a 80mm f3.5 lens and a wide range of shutter speeds and aperatures, this camera provides me with some of the most beautiful pictures I have taken through Film."
+    },
+    {
+        "id": 17,
+        "name": "Yashica SU-40 E",
+        "image": "cameras/yashica-su-40e.png",
+        "year": 1968,
+        "description": "The Yashica SU-40 E is one of my only Super 8 cameras in a wonderful working condition, featuring a great 36mm f1.8 SLR zoom lens. Thanks to it taking Super 8 cartridges it is simple simple to use, allowing me to have produced multiple short films developed with the ECN-2 process, unlike my normal C-41 process for the rest of my cameras."
+    }
+]
