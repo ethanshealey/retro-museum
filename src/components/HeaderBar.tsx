@@ -40,8 +40,7 @@ const HeaderBar = () => {
                   style={{
                     position: 'absolute',
                     left: '0',
-                    top: '100%',
-                    zIndex: '10'  
+                    top: '100%'
                   }}
                 >
                   <MenuListItem 

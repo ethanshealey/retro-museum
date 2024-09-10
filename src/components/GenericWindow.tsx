@@ -52,7 +52,7 @@ const GenericWindow = ({ type, content }: GenericWindowProps) => {
     
     return (
         <Draggable handle=".window-title" disabled={isMobile}>
-            <Window className='window' style={{ position: 'absolute', zIndex: '-0' }}>
+            <Window className='window'>
                 <WindowHeader className='window-title'>
                     <span className='window-title-span'>
                     <Image
