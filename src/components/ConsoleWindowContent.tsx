@@ -10,8 +10,8 @@ const ConsoleWindowContent = () => {
     
   return (
     <ScrollView className='scroll-view'>
-      <h1>Computers</h1>
-      <p>I have always found vintage computers to be super interesting, but due to their size and price I have not collected many. I currently have {consoleJson.length} computers, originating from between {getMinYear(consoleJson)} and {getMaxYear(consoleJson)}</p>
+      <h1>Consoles</h1>
+      <p>What's more fun than playing games made decades before you were born? My first exposure to retro gaming was sitting on the floor at my grandparents house playing my Dad's old Atari 2600 (specifically playing Pitfall!). I currently have {consoleJson.length} computers, originating from between {getMinYear(consoleJson)} and {getMaxYear(consoleJson)}</p>
       <Separator />
       {
         sort(consoleJson).map((camera: GenericEntryType) => (
