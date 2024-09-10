@@ -8,10 +8,10 @@ export default function Home() {
 
   return (
     <div>
-      <HeaderBar />
       <div id="main">
         <GenericWindow type='welcome' content={<WelcomeWindowContent />} />
       </div>
+      <HeaderBar />
     </div>
   )
 }

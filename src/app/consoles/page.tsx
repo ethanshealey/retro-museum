@@ -7,10 +7,10 @@ export default function Consoles() {
   
     return (
       <div>
-        <HeaderBar />
         <div id="main">
           <GenericWindow type='consoles' content={<ConsoleWindowContent />} />
         </div>
+        <HeaderBar />
       </div>
     )
 }

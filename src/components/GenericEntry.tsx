@@ -1,6 +1,5 @@
 import GenericEntryType from '@/types/GenericEntryType'
 import React from 'react'
-import Image from 'next/image'
 import { Separator } from "react95"
 
 type GenericEntryProps = {

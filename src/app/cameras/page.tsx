@@ -7,10 +7,10 @@ export default function Cameras() {
   
     return (
       <div>
-        <HeaderBar />
         <div id="main">
           <GenericWindow type='cameras' content={<CameraWindowContent />} />
         </div>
+        <HeaderBar />
       </div>
     )
 }

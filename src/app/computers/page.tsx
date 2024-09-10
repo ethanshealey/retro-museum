@@ -7,10 +7,10 @@ export default function Computers() {
   
     return (
       <div>
-        <HeaderBar />
         <div id="main">
           <GenericWindow type='computers' content={<ComputerWindowContent />} />
         </div>
+        <HeaderBar />
       </div>
     )
 }

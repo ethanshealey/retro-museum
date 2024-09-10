@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import Image from 'next/image'
-import { AppBar, Button, MenuList, MenuListItem, Separator, TextInput, Toolbar } from 'react95'
+import { AppBar, Button, MenuList, MenuListItem, Toolbar } from 'react95'
 import startLogo from '/public/static/images/start-logo.png'
 import welcomeLogo from '/public/static/images/world-2.png'
 import computerIcon from '/public/static/images/computer-2.png'
@@ -9,7 +9,6 @@ import consoleIcon from '/public/static/images/joystick-4.png'
 import { useRouter } from 'next/navigation'
 
 type HeaderBarProps = {
-  // spawn: Function
 }
 
 const HeaderBar = () => {
@@ -17,11 +16,7 @@ const HeaderBar = () => {
   const router = useRouter()
   const [ open, setOpen ] = useState<boolean>(false)
 
-  const handleClick = (name: string) => {
-    // setOpen(false)
-    // spawn(name)
-    router.push(`/${name}`)
-  }
+  const handleClick = (name: string) => router.push(`/${name}`)
 
     return (
       <div>
@@ -45,7 +40,8 @@ const HeaderBar = () => {
                   style={{
                     position: 'absolute',
                     left: '0',
-                    top: '100%'      
+                    top: '100%',
+                    zIndex: '10'  
                   }}
                 >
                   <MenuListItem 

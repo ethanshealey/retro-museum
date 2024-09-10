@@ -4,7 +4,6 @@ import GenericEntry from "./GenericEntry"
 import { ScrollView, Separator } from "react95"
 import sort from "@/util/sort"
 import getMinYear from "@/util/getMinYear"
-import { getMaxAge } from "next/dist/server/image-optimizer"
 import getMaxYear from "@/util/getMaxYear"
 
 const CameraWindowContent = () => {

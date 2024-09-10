@@ -1,4 +1,4 @@
-import { useState, useRef, useEffect, ReactElement } from 'react'
+import { useState, useEffect } from 'react'
 import {
     Button,
     Toolbar,
@@ -52,7 +52,7 @@ const GenericWindow = ({ type, content }: GenericWindowProps) => {
     
     return (
         <Draggable handle=".window-title" disabled={isMobile}>
-            <Window className='window'>
+            <Window className='window' style={{ position: 'absolute', zIndex: '-0' }}>
                 <WindowHeader className='window-title'>
                     <span className='window-title-span'>
                     <Image
