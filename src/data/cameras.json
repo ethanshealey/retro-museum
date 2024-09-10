@@ -117,5 +117,12 @@
         "image": "cameras/yashica-su-40e.png",
         "year": 1968,
         "description": "The Yashica SU-40 E is one of my only Super 8 cameras in a wonderful working condition, featuring a great 36mm f1.8 SLR zoom lens. Thanks to it taking Super 8 cartridges it is simple simple to use, allowing me to have produced multiple short films developed with the ECN-2 process, unlike my normal C-41 process for the rest of my cameras."
+    },
+    {
+        "id": 18,
+        "name": "Polaroid SX-70 Land Camera Alpha 1",
+        "image": "cameras/polaroid-sx70.png",
+        "year": 1977,
+        "description": "This unique collapsable instant camera was a gift from my Mom on Christmas 2023 and remains one of my favorites due to its eye catching design. The front of this camera is simple, yielding its only three controls, A big red shutter button located under the focusing dial, and an exposure dial on the opposite side. Along with this camera I also have a MiNT flash bar, allowing me to take pictures indoors and at any time!"
     }
 ]
