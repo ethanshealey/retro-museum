@@ -14,8 +14,8 @@ const ConsoleWindowContent = () => {
       <p>What&apos;s more fun than playing games made decades before you were born? My first exposure to retro gaming was sitting on the floor at my grandparents house playing my Dad&apos;s old Atari 2600 (specifically playing Pitfall!). I currently have {consoleJson.length} consoles, originating from between {getMinYear(consoleJson)} and {getMaxYear(consoleJson)}</p>
       <Separator />
       {
-        sort(consoleJson).map((camera: GenericEntryType) => (
-          <GenericEntry key={camera.id} entry={camera} />
+        sort(consoleJson).map((camera: GenericEntryType, idx: number) => (
+          <GenericEntry key={camera.id} entry={camera} isLast={idx === consoleJson.length-1} />
         ))
       }
     </ScrollView>

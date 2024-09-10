@@ -14,8 +14,8 @@ const ComputerWindowContent = () => {
       <p>I have always found vintage computers to be super interesting, but due to their size and price I have not collected many. I currently have {computerJson.length} computers, originating from between {getMinYear(computerJson)} and {getMaxYear(computerJson)}</p>
       <Separator />
       {
-        sort(computerJson).map((camera: GenericEntryType) => (
-          <GenericEntry key={camera.id} entry={camera} />
+        sort(computerJson).map((camera: GenericEntryType, idx: number) => (
+          <GenericEntry key={camera.id} entry={camera} isLast={idx === computerJson.length-1} />
         ))
       }
     </ScrollView>

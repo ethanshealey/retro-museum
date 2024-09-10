@@ -14,8 +14,8 @@ const CameraWindowContent = () => {
       <p>Antique cameras have been the main focus of my dive into this rabbit hole. I currently have {cameraJson.length} cameras, originating from between {getMinYear(cameraJson)} and {getMaxYear(cameraJson)}</p>
       <Separator />
       {
-        sort(cameraJson).map((camera: GenericEntryType) => (
-          <GenericEntry key={camera.id} entry={camera} />
+        sort(cameraJson).map((camera: GenericEntryType, idx: number) => (
+          <GenericEntry key={camera.id} entry={camera} isLast={idx === cameraJson.length-1} />
         ))
       }
     </ScrollView>

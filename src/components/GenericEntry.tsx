@@ -3,10 +3,11 @@ import React from 'react'
 import { Separator } from "react95"
 
 type GenericEntryProps = {
-    entry: GenericEntryType
+    entry: GenericEntryType,
+    isLast: boolean
 }
 
-const GenericEntry = ({ entry }: GenericEntryProps) => {
+const GenericEntry = ({ entry, isLast }: GenericEntryProps) => {
   return (
     <>
         <h4 className='generic-entry-name'>{ entry.name } | <span className='year'>{ entry.year}</span></h4>
@@ -16,7 +17,7 @@ const GenericEntry = ({ entry }: GenericEntryProps) => {
         <p>
             { entry.description}
         </p>
-        <Separator />
+        { !isLast && <Separator /> }
     </>
   )
 }
