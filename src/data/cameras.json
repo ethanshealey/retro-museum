@@ -124,5 +124,19 @@
         "image": "cameras/polaroid-sx70.png",
         "year": 1977,
         "description": "This unique collapsable instant camera was a gift from my Mom on Christmas 2023 and remains one of my favorites due to its eye catching design. The front of this camera is simple, yielding its only three controls, A big red shutter button located under the focusing dial, and an exposure dial on the opposite side. Along with this camera I also have a MiNT flash bar, allowing me to take pictures indoors and at any time!"
+    },
+    {
+        "id": 19,
+        "name": "Graflex National II",
+        "image": "cameras/graflex-national-ii.png",
+        "year": 1934,
+        "description": "The Graflex National II is a beauty of a camera, featuring a unique viewing hood and intricate controls. This camera nativley shoots 120 film which is still widly available today, and is a compact build single lens reflex camera and is far from easy to use. It was also given the loving nickname of \"Hefty Little Brick\" due to its weight and size. Currently my Graflex National II is not operational, but I hope to fix it soon."
+    },
+    {
+        "id": 20,
+        "name": "Unicum Glass Plate 4x5",
+        "image": "cameras/unicum-unknown-1891.png",
+        "year": 1891,
+        "description": "This camera is a bit of a mystery, it has lost the majority of its information other than the beautiful Unicum lens which is dated to around 1891. It features a lovely wood and brass body and is fully functioning, although some of the faster shutter speeds arent very accurate. Luckily when dealing with plates, the iso tends to be very low, such as 2 iso. So fast speeds are rarely needed."
     }
 ]
