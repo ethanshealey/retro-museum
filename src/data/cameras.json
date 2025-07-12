@@ -142,7 +142,7 @@
     {
         "id": 21,
         "name": "Bell & Howell Filmo 70 KM",
-        "image": "cameras/bell-and-howell-film-70-km.png",
+        "image": "cameras/bell-and-howell-filmo-70-km.png",
         "year": 1923,
         "description": "This one-of-a-kind find is built like a literal tank and reps a \"News 3\" custom cover and a tag showing this beast once belong to \"WLOS-TV, Channel 13, Ashville NC\". The Bell & Howell Filmo-70 KM is a classic spring-motor 16mm motion-picture camera, part of the enduring Filmo 70 series that began in 1923. It features a rugged all-metal body, a three-lens turret (granting quick focal length swaps), and a reliable 0.7-inch (18mm) f/2.5 C-mount lens—all powered by a wind-up key mechanism."
     },
@@ -191,7 +191,7 @@
     {
         "id": 28,
         "name": "Canon A-1",
-        "image": "cameras/mcanon-a1.png",
+        "image": "cameras/canon-a1.png",
         "year": 1978,
         "description": "The Canon A-1, released in 1978, is a landmark 35mm SLR film camera and one of the first to offer full-programmed auto exposure alongside shutter-priority, aperture-priority, and full manual modes. A member of Canon’s popular A-series, the A-1 combined advanced electronics with classic design, appealing to both amateurs and professionals."
     },
