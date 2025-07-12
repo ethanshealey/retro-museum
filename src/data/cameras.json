@@ -138,5 +138,75 @@
         "image": "cameras/unicum-unknown-1891-v2.png",
         "year": 1891,
         "description": "This camera is a bit of a mystery, it has lost the majority of its information other than the beautiful Unicum lens which is dated to around 1891. It features a lovely wood and brass body and is fully functioning, although some of the faster shutter speeds arent very accurate. Luckily when dealing with plates, the iso tends to be very low, such as 2 iso. So fast speeds are rarely needed."
+    },
+    {
+        "id": 21,
+        "name": "Bell & Howell Filmo 70 KM",
+        "image": "cameras/bell-and-howell-film-70-km.png",
+        "year": 1923,
+        "description": "This one-of-a-kind find is built like a literal tank and reps a \"News 3\" custom cover and a tag showing this beast once belong to \"WLOS-TV, Channel 13, Ashville NC\". The Bell & Howell Filmo-70 KM is a classic spring-motor 16mm motion-picture camera, part of the enduring Filmo 70 series that began in 1923. It features a rugged all-metal body, a three-lens turret (granting quick focal length swaps), and a reliable 0.7-inch (18mm) f/2.5 C-mount lens—all powered by a wind-up key mechanism."
+    },
+    {
+        "id": 22,
+        "name": "Exa Ihagee Dresden",
+        "image": "cameras/exa-lhagee-dresden.png",
+        "year": 1951,
+        "description": "The Ihagee Dresden Exa is a classic mid-20th-century 35 mm mechanical SLR, first introduced in 1951 as a simplified, affordable counterpart to the Exakta line. Hailing from Dresden, East Germany, it was built with rugged all-metal construction and reliable mechanics—rewarding photographers who valued simplicity and sturdiness."
+    },
+    {
+        "id": 23,
+        "name": "Ziess Ikon Mess Ikonta 524/16",
+        "image": "cameras/ziess-ikon-mess-ikonta-524-16.png",
+        "year": 1951,
+        "description": "The Zeiss Ikon Ikonta 524/16 Rangefinder is a compact, medium-format folding camera produced in the 1950s. It uses 120 film to produce 6×6 cm square images and features a coupled rangefinder for precise focusing. Known for its sharp Zeiss lenses (like the Novar or Tessar) and sturdy build, the 524/16 combines portability with excellent image quality. Its folding bellows design makes it easy to carry, making it a favorite among collectors and vintage film enthusiasts seeking high-quality 6×6 results in a classic package."
+    },
+    {
+        "id": 24,
+        "name": "Vtg Zeiss Ikon Contaflex Super",
+        "image": "cameras/vtg-zeiss-ikon-contraflex-super.png",
+        "year": 1959,
+        "description": "The Zeiss Ikon Contaflex Super is a 35mm single-lens reflex (SLR) camera introduced in the late 1950s, known for its precision German engineering and distinctive leaf shutter system. It features a fixed Carl Zeiss Tessar 50mm f/2.8 lens, interchangeable front lens elements, and a built-in selenium light meter. The Contaflex Super offers full manual control, crisp optical quality, and a solid, metal build—making it a prized piece for collectors and film photography enthusiasts seeking classic SLR charm with exceptional craftsmanship."
+    },
+    {
+        "id": 25,
+        "name": "Nikon Nikkormat EL2",
+        "image": "cameras/nikon-nikkormat-el2.png",
+        "year": 1977,
+        "description": "The Nikon Nikkormat EL2 is a high-quality 35mm SLR film camera introduced in 1977, known for blending mechanical reliability with electronic convenience. It features aperture-priority auto exposure, manual mode, and a durable Copal vertical metal shutter with speeds from 4s to 1/1000s. Built with Nikon’s rugged design and compatible with AI (Automatic Indexing) Nikkor lenses, the EL2 also includes a bright viewfinder with a match-needle exposure system. It's a favorite among enthusiasts for its solid build, smooth handling, and dependable performance."
+    },
+    {
+        "id": 26,
+        "name": "Icarette Ica Novar",
+        "image": "cameras/icarette-ica-novar.png",
+        "year": 1926,
+        "description": "The Icarette Ica Novar is a classic folding camera produced by ICA (Internationale Camera A.G.) in the 1920s, prior to its merger into Zeiss Ikon. Designed for 120 roll film, it typically produces 6×9 cm negatives and is equipped with a Novar Anastigmat lens—known for delivering soft, vintage character with modest sharpness. Featuring a bellows design, metal body, and waist-level viewfinder, the Icarette combines early 20th-century craftsmanship with portability. It remains a beautiful example of pre-war German camera engineering, prized by collectors and vintage film shooters alike."
+    },
+    {
+        "id": 27,
+        "name": "Minolta SR-T 101",
+        "image": "cameras/minolta-srt-101.png",
+        "year": 1966,
+        "description": "The Minolta SR-T 101 is a classic 35mm SLR film camera introduced in 1966, renowned for its durability, reliability, and groundbreaking metering system. It was one of the first cameras to feature TTL (Through-The-Lens) full-aperture metering using Minolta's CLC (Contrast Light Compensation) system, which helped balance exposure in high-contrast lighting."
+    },
+    {
+        "id": 28,
+        "name": "Canon A-1",
+        "image": "cameras/mcanon-a1.png",
+        "year": 1978,
+        "description": "The Canon A-1, released in 1978, is a landmark 35mm SLR film camera and one of the first to offer full-programmed auto exposure alongside shutter-priority, aperture-priority, and full manual modes. A member of Canon’s popular A-series, the A-1 combined advanced electronics with classic design, appealing to both amateurs and professionals."
+    },
+    {
+        "id": 29,
+        "name": "Konica FT-1 Motor",
+        "image": "cameras/konica-ft-1-motor.png",
+        "year": 1983,
+        "description": "The Konica FT-1 Motor, released in 1983, is a 35mm SLR film camera known for being the last model in Konica’s long-running Autoreflex series. It features a built-in motor drive—a rare convenience for its era—offering automatic film advance at up to 2 frames per second. This camera being a gift from some friends, I do not have any lenses for it yet!"
+    },
+    {
+        "id": 30,
+        "name": "Yashica Electro 35 GSN",
+        "image": "cameras/yashica-electro-35-gsn.png",
+        "year": 1973,
+        "description": "The Yashica Electro 35 GSN, released in 1973, is a classic 35mm rangefinder camera known for its sharp lens, sleek design, and electronic auto exposure system. It features a fast 45mm f/1.7 Yashinon-DX lens, ideal for low-light photography and producing beautiful depth of field."
     }
 ]
