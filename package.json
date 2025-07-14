@@ -26,6 +26,7 @@
     "@types/node": "latest",
     "@types/react": "latest",
     "@types/react-dom": "latest",
+    "@types/react-lazy-load-image-component": "^1.6.4",
     "eslint": "latest",
     "eslint-config-next": "latest",
     "typescript": "latest"
