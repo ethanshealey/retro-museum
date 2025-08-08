@@ -7,10 +7,31 @@
         "description": "The Commodore 64, also known as the C64, is an 8-bit home computer introduced in January 1982 by Commodore International. It has been listed in the Guinness World Records as the highest-selling single computer model of all time, with independent estimates placing the number sold between 12.5 and 17 million units. This is also the only item that goes across multiple categories, technically being a console as well as a computer!"
     },
     {
-        "id": 2,
+        "id": 3,
         "name": "Atari 2600",
         "image": "consoles/atari-2600.png",
         "year": 1977,
-        "description": "The Atari 2600 is a discontinued home video game console developed and produced by Atari, Inc. Released in September 1977 as the Atari Video Computer System (Atari VCS), it popularized microprocessor-based hardware and games stored on swappable ROM cartridges, a format first used with the Fairchild Channel F in 1976. The VCS was bundled with two joystick controllers, a conjoined pair of paddle controllers, and a game cartridge—initially Combat and later Pac-Man. Sears sold the system as the Tele-Games Video Arcade. Atari rebranded the VCS as the Atari 2600 in November 1982 alongside the release of the Atari 5200."
+        "description": "The Atari 2600 is a home video game console developed and produced by Atari, Inc. Released in September 1977 as the Atari Video Computer System (Atari VCS), it popularized microprocessor-based hardware and games stored on swappable ROM cartridges, a format first used with the Fairchild Channel F in 1976. The VCS was bundled with two joystick controllers, a conjoined pair of paddle controllers, and a game cartridge—initially Combat and later Pac-Man. Sears sold the system as the Tele-Games Video Arcade. Atari rebranded the VCS as the Atari 2600 in November 1982 alongside the release of the Atari 5200."
+    },
+    {
+        "id": 4,
+        "name": "Gameboy",
+        "image": "consoles/gameboy.png",
+        "year": 1989,
+        "description": "Nintendo’s Game Boy revolutionized portable gaming when it launched in 1989. With its monochrome screen, chunky design, and iconic D-pad, it brought titles like Tetris and Super Mario Land to players’ pockets. Despite its simplicity, it became a cultural phenomenon, selling over 118 million units worldwide (including Game Boy Color)."
+    },
+    {
+        "id": 5,
+        "name": "Gameboy Advanced SP",
+        "image": "consoles/gameboy.png",
+        "year": 2003,
+        "description": "Nintendo’s Game Boy Advance SP was a sleek upgrade to the original GBA, launched in 2003. With its clamshell design, rechargeable battery, and built-in screen lighting (first frontlit, later backlit), it solved the visibility issues of its predecessor. Compact, stylish, and backward-compatible with earlier Game Boy titles, it became a fan favorite and sold over 43 million units worldwide."
+    },
+    {
+        "id": 6,
+        "name": "Nintendo Entertainment System",
+        "image": "consoles/nes.png",
+        "year": 1983,
+        "description": "The NES was Nintendo’s landmark 8-bit home console that revived the video game industry after the 1983 crash. Originally released in Japan as the Famicom in 1983, it launched in North America in 1985 with iconic titles like Super Mario Bros., Duck Hunt, and The Legend of Zelda. With over 61 million units sold, it became a cultural cornerstone and laid the foundation for modern gaming."
     }
 ]
