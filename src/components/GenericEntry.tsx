@@ -16,7 +16,7 @@ const GenericEntry = ({ entry, isLast }: GenericEntryProps) => {
           <LazyLoadImage 
             className='generic-entry-image'
             width={'50%'}
-            effect='blue'
+            effect='blur'
             src={`/static/images/${entry.image}`}
           />
         </div>
