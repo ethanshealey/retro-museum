@@ -23,7 +23,7 @@
     {
         "id": 5,
         "name": "Gameboy Advanced SP",
-        "image": "consoles/gameboy.png",
+        "image": "consoles/gameboy-advanced-sp.png",
         "year": 2003,
         "description": "Nintendo’s Game Boy Advance SP was a sleek upgrade to the original GBA, launched in 2003. With its clamshell design, rechargeable battery, and built-in screen lighting (first frontlit, later backlit), it solved the visibility issues of its predecessor. Compact, stylish, and backward-compatible with earlier Game Boy titles, it became a fan favorite and sold over 43 million units worldwide."
     },
