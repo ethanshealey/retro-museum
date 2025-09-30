@@ -208,5 +208,12 @@
         "image": "cameras/yashica-electro-35-gsn.png",
         "year": 1973,
         "description": "The Yashica Electro 35 GSN, released in 1973, is a classic 35mm rangefinder camera known for its sharp lens, sleek design, and electronic auto exposure system. It features a fast 45mm f/1.7 Yashinon-DX lens, ideal for low-light photography and producing beautiful depth of field."
+    },
+    {
+        "id": 31,
+        "name": "Graflex 3A",
+        "image": "cameras/Graflex3A.png",
+        "year": 1907,
+        "description": "The Graflex 3A was a folding camera designed to produce 3¼ × 5½ inch negatives, the standard \"postcard\" format of its era. Manufactured by Folmer & Schwing, later Graflex, it catered to the growing popularity of real photo postcards in the early 20th century. The camera offered advanced features for its time, including bellows focusing, a rising front standard, and in some models, a focal-plane shutter. Combining portability with high-quality image making, the Graflex 3A became a favorite among both professional and amateur photographers, and remains a notable example of the craftsmanship and innovation that shaped early popular photography."
     }
 ]
